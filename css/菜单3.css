@@ -1,0 +1,18 @@
+/* CSS Document */
+.menuHead {font-weight:bold; font-size:28px; 
+background-color:#CC3366;}
+.menuChoices {background-color:#CC99FF; width:280px; 
+font-size:25px}
+.menu a {color:#FFFFCC; text-decoration: none;}
+.menu a:hover {text-decoration:underline;}  
+
+#menu1 {position: absolute; top:380px; left: 50px; 
+
+width: 280px}
+#menu2 {position: absolute; top:380px; left: 330px; 
+
+width:280px}
+#menu3 {position: absolute; top:380px; left: 610px; 
+
+width:280px}
+
